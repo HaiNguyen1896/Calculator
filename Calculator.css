@@ -1,0 +1,8 @@
+div.input1 {
+    display: flex;
+    margin-top: 10px;
+}
+div.input2 {
+    display: flex;
+    border-collapse: collapse;
+}
